@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mihaitaghitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mihaitaghitu" height="30" width="40" /></a>
+<a href="https://twitter.com/@mihaitaghitu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@mihaitaghitu" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/mihaitaghitu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mihaitaghitu" height="20" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="30" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="90" height="30"/> </a> </p>

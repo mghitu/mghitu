@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mihaitaghitu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@mihaitaghitu" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/mihaitaghitu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mihaitaghitu" height="20" width="70" /></a>
+<h3 style="text-align:left">Connect with me:</h3>
+<p style="text-align:left">
+<a href="https://twitter.com/mihaitaghitu" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@mihaitaghitu" height="20" width="20" style="vertical-align:middle;" /></a>
+<a href="https://linkedin.com/in/mihaitaghitu" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mihaitaghitu" height="20" width="20" style="vertical-align:middle;" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="30" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="90" height="30"/>  </a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="90" height="30"/>  </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="100" height="40"/>  </a> </p>
+<h3 style="text-align:left">Languages and Tools:</h3>
+<p style="text-align:left"> 
+<a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" height="30" style="vertical-align:middle;"/></a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" height="30" style="vertical-align:middle;"/> </a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" height="30" style="vertical-align:middle;"/> 
+</a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noopener noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="30" style="vertical-align:middle;"/>  </a> 
+</p>

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 style="text-align:left">Connect with me:</h3>
 <p style="text-align:left">
 <a href="https://twitter.com/mihaitaghitu" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="@mihaitaghitu" height="20" width="20" style="vertical-align:middle;" /></a>
-<a href="https://linkedin.com/in/mihaitaghitu" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mihaitaghitu" height="20" width="20" style="vertical-align:middle;" /></a>
+<a href="https://linkedin.com/in/mihaitaghitu" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="20" width="20" style="vertical-align:middle;" /></a>
 </p>
 
 <h3 style="text-align:left">Languages and Tools:</h3>
